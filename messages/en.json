@@ -1,0 +1,171 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "booking": "Booking",
+    "legacy": "Legacy",
+    "brand": "Iron & Ink"
+  },
+  "Hero": {
+    "line1": "CRAFT YOUR",
+    "line2": "LEGACY",
+    "subtitle": "Where artistry meets tradition. Every cut tells a story, every shave is a masterpiece.",
+    "experience": "Experience the difference.",
+    "cta": "Reserve Your Experience",
+    "contactOpen": "Open Daily",
+    "contactHours": "Mon-Fri: 09:00-20:00",
+    "contactCall": "Call Us",
+    "contactVisit": "Visit Us",
+    "address": "Námestie SNP 12, Bratislava"
+  },
+  "About": {
+    "title1": "The Art of",
+    "title2": "Grooming",
+    "signatureName": "Master Viktor",
+    "signatureTitle": "Founder & Lead Barber",
+    "p1_strong": "Iron & Ink",
+    "p1": "isn't just a barbershop—it's a sanctuary where tradition meets innovation. Founded by Master Viktor, a craftsman with over 15 years of international experience, we've redefined what it means to be a modern gentleman.",
+    "p2": "Every tool in our arsenal tells a story. From hand-forged scissors to vintage straight razors, we believe that exceptional grooming requires exceptional instruments. Our space combines the warmth of aged leather with the precision of modern design.",
+    "quote": "\"We don't just cut hair—we craft confidence, one gentleman at a time.\"",
+    "stat1_value": "15+",
+    "stat1_label": "Years Experience",
+    "stat2_value": "10K+",
+    "stat2_label": "Happy Clients",
+    "stat3_value": "5★",
+    "stat3_label": "Average Rating"
+  },
+  "Services": {
+    "title": "Signature Services",
+    "subtitle": "Each service is a masterpiece, crafted with precision and passion",
+    "cta": "Book This Service",
+    "cards": {
+      "classic": {
+        "title": "The Classic Cut",
+        "description": "Timeless style meets modern precision. A cut that never goes out of fashion."
+      },
+      "beard": {
+        "title": "Beard Sculpting",
+        "description": "Artistic beard shaping that defines your character and enhances your features."
+      },
+      "royal": {
+        "title": "Royal Shave",
+        "description": "The ultimate hot towel experience with traditional straight razor mastery."
+      },
+      "full": {
+        "title": "The Full Experience",
+        "description": "Complete transformation: cut, beard, and styling for the modern gentleman."
+      },
+      "style": {
+        "title": "Style & Finish",
+        "description": "Professional styling with premium products for that perfect finishing touch."
+      }
+    }
+  },
+  "Gallery": {
+    "title": "Our Artistry",
+    "subtitle": "Every cut is a canvas, every client a masterpiece",
+    "card_subtitle": "Iron & Ink Artistry",
+    "images": {
+      "img1": "Barber Working Close Up",
+      "img2": "Vintage Tools Detail",
+      "img3": "Perfect Beard Trim",
+      "img4": "Classic Haircut Process",
+      "img5": "Shop Interior Mood",
+      "img6": "Straight Razor Detail",
+      "img7": "Client Satisfaction",
+      "img8": "Barber Craftsmanship"
+    }
+  },
+  "Legacy": {
+    "title": "Our Legacy",
+    "subtitle": "A journey of excellence, crafted over years of dedication",
+    "milestones": {
+      "m1": {
+        "year": "2015",
+        "title": "Founded",
+        "description": "Started with a vision of premium grooming"
+      },
+      "m2": {
+        "year": "2018",
+        "title": "Expanded",
+        "description": "Moved to our current premium location"
+      },
+      "m3": {
+        "year": "2020",
+        "title": "Award Winner",
+        "description": "Best Barbershop in Bratislava"
+      },
+      "m4": {
+        "year": "2024",
+        "title": "10,000+ Clients",
+        "description": "Serving the finest gentlemen"
+      }
+    }
+  },
+  "Testimonials": {
+    "title": "Client Stories",
+    "subtitle": "The voices of satisfaction speak louder than words",
+    "clients": {
+      "c1": {
+        "name": "Petra Novotná",
+        "city": "Bratislava",
+        "quote": "My husband looks like a movie star after every visit. The attention to detail is incredible!"
+      },
+      "c2": {
+        "name": "Marek Kováč",
+        "city": "Košice",
+        "quote": "This isn't just a haircut, it's an experience. The atmosphere, the skill, everything is perfect."
+      },
+      "c3": {
+        "name": "Lucia Horváthová",
+        "city": "Žilina",
+        "quote": "Booked for my brother's wedding. He looked absolutely stunning. Worth every penny!"
+      }
+    }
+  },
+  "Booking": {
+    "title": "Reserve Your Seat",
+    "subtitle": "Step into excellence. Your transformation awaits.",
+    "ticket_header": "IRON & INK BARBERSHOP",
+    "ticket_subheader": "PREMIUM GROOMING EXPERIENCE",
+    "form": {
+      "name_label": "Gentleman's Name",
+      "name_placeholder": "Your Name",
+      "phone_label": "Contact Number",
+      "phone_placeholder": "Phone Number",
+      "service_label": "Select Your Experience",
+      "service_placeholder": "Choose Your Service",
+      "date_label": "Preferred Date",
+      "time_label": "Preferred Time",
+      "requests_label": "Special Requests",
+      "requests_placeholder": "Any specific requirements or preferences...",
+      "submit_button": "Confirm Your Reservation"
+    },
+    "ticket_footer1": "Thank you for choosing Iron & Ink",
+    "ticket_footer2": "Your journey to excellence begins here"
+  },
+  "Contact": {
+    "title": "Find Your Sanctuary",
+    "subtitle": "Located in the heart of Bratislava, where tradition meets luxury",
+    "location_title": "Visit Our Sanctuary",
+    "location_address": "Námestie SNP 12, Bratislava, Slovakia",
+    "phone_title": "Call for Reservations",
+    "email_title": "Email Us",
+    "email_address": "info@ironinkbarber.sk",
+    "hours_title": "Opening Hours",
+    "hours_weekdays": "Monday - Friday",
+    "hours_saturday": "Saturday",
+    "hours_sunday": "Sunday",
+    "hours_closed": "Closed",
+    "map_title": "Iron & Ink Barbershop",
+    "map_subtitle": "Premium grooming in the heart of Bratislava"
+  },
+  "Footer": {
+    "brandName": "Iron & Ink Barbershop",
+    "subtitle": "Crafting Excellence Since 2015",
+    "copyright": "© 2024 Iron & Ink Barbershop. All rights reserved. | Created by Futurio"
+  }
+}

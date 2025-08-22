@@ -1,0 +1,171 @@
+{
+  "Navigation": {
+    "home": "Domov",
+    "about": "O nás",
+    "services": "Služby",
+    "gallery": "Galéria",
+    "contact": "Kontakt",
+    "booking": "Rezervácia",
+    "legacy": "Odkaz",
+    "brand": "Iron & Ink"
+  },
+  "Hero": {
+    "line1": "VYTVORTE SI SVOJ",
+    "line2": "ODKAZ",
+    "subtitle": "Kde sa umenie stretáva s tradíciou. Každý strih rozpráva príbeh, každé holenie je majstrovským dielom.",
+    "experience": "Zažite ten rozdiel.",
+    "cta": "Rezervujte si svoj zážitok",
+    "contactOpen": "Otvorené denne",
+    "contactHours": "Po-Pia: 09:00-20:00",
+    "contactCall": "Zavolajte nám",
+    "contactVisit": "Navštívte nás",
+    "address": "Námestie SNP 12, Bratislava"
+  },
+  "About": {
+    "title1": "Umenie",
+    "title2": "Starostlivosti",
+    "signatureName": "Majster Viktor",
+    "signatureTitle": "Zakladateľ a hlavný holič",
+    "p1_strong": "Iron & Ink",
+    "p1": "nie je len holičstvo – je to svätyňa, kde sa tradícia stretáva s inováciou. Založené majstrom Viktorom, remeselníkom s viac ako 15-ročnými medzinárodnými skúsenosťami, sme nanovo definovali, čo znamená byť moderným gentlemanom.",
+    "p2": "Každý nástroj v našom arzenáli rozpráva príbeh. Od ručne kovaných nožníc po historické britvy veríme, že výnimočná starostlivosť si vyžaduje výnimočné nástroje. Náš priestor spája teplo starožitnej kože s precíznosťou moderného dizajnu.",
+    "quote": "\"My nielen striháme vlasy – my tvoríme sebavedomie, jedného gentlemana po druhom.\"",
+    "stat1_value": "15+",
+    "stat1_label": "Rokov skúseností",
+    "stat2_value": "10K+",
+    "stat2_label": "Spokojných klientov",
+    "stat3_value": "5★",
+    "stat3_label": "Priemerné hodnotenie"
+  },
+  "Services": {
+    "title": "Naše Služby",
+    "subtitle": "Každá služba je majstrovským dielom, vytvoreným s precíznosťou a vášňou",
+    "cta": "Objednať túto službu",
+    "cards": {
+      "classic": {
+        "title": "Klasický strih",
+        "description": "Nadčasový štýl sa stretáva s modernou precíznosťou. Strih, ktorý nikdy nevyjde z módy."
+      },
+      "beard": {
+        "title": "Tvarovanie brady",
+        "description": "Umelecké tvarovanie brady, ktoré definuje váš charakter a zvýrazňuje vaše črty."
+      },
+      "royal": {
+        "title": "Kráľovské holenie",
+        "description": "Dokonalý zážitok s horúcim uterákom a majstrovstvom tradičnej britvy."
+      },
+      "full": {
+        "title": "Kompletný zážitok",
+        "description": "Úplná transformácia: strih, brada a styling pre moderného gentlemana."
+      },
+      "style": {
+        "title": "Styling a úprava",
+        "description": "Profesionálny styling s prémiovými produktmi pre dokonalý finálny dotyk."
+      }
+    }
+  },
+  "Gallery": {
+    "title": "Naše umenie",
+    "subtitle": "Každý strih je plátno, každý klient majstrovské dielo",
+    "card_subtitle": "Umenie Iron & Ink",
+    "images": {
+      "img1": "Holič pri práci zblízka",
+      "img2": "Detail historických nástrojov",
+      "img3": "Dokonale upravená brada",
+      "img4": "Proces klasického strihu",
+      "img5": "Atmosféra v holičstve",
+      "img6": "Detail britvy",
+      "img7": "Spokojnosť klienta",
+      "img8": "Remeslo holiča"
+    }
+  },
+  "Legacy": {
+    "title": "Náš odkaz",
+    "subtitle": "Cesta excelentnosti, budovaná rokmi odhodlania",
+    "milestones": {
+      "m1": {
+        "year": "2015",
+        "title": "Založenie",
+        "description": "Začali sme s víziou prémiovej starostlivosti"
+      },
+      "m2": {
+        "year": "2018",
+        "title": "Expanzia",
+        "description": "Presťahovali sme sa do našej súčasnej prémiovej lokality"
+      },
+      "m3": {
+        "year": "2020",
+        "title": "Víťaz ocenenia",
+        "description": "Najlepšie holičstvo v Bratislave"
+      },
+      "m4": {
+        "year": "2024",
+        "title": "10 000+ Klientov",
+        "description": "Slúžime najlepším gentlemanom"
+      }
+    }
+  },
+  "Testimonials": {
+    "title": "Príbehy klientov",
+    "subtitle": "Hlasy spokojnosti hovoria hlasnejšie ako slová",
+    "clients": {
+      "c1": {
+        "name": "Petra Novotná",
+        "city": "Bratislava",
+        "quote": "Môj manžel vyzerá po každej návšteve ako filmová hviezda. Tá pozornosť k detailom je neuveriteľná!"
+      },
+      "c2": {
+        "name": "Marek Kováč",
+        "city": "Košice",
+        "quote": "Toto nie je len strih, je to zážitok. Atmosféra, zručnosť, všetko je dokonalé."
+      },
+      "c3": {
+        "name": "Lucia Horváthová",
+        "city": "Žilina",
+        "quote": "Objednala som brata na jeho svadbu. Vyzeral absolútne úžasne. Stálo to za každé euro!"
+      }
+    }
+  },
+  "Booking": {
+    "title": "Rezervujte si miesto",
+    "subtitle": "Vstúpte do excelentnosti. Vaša transformácia čaká.",
+    "ticket_header": "IRON & INK BARBERSHOP",
+    "ticket_subheader": "ZÁŽITOK PRÉMIOVEJ STAROSTLIVOSTI",
+    "form": {
+      "name_label": "Meno gentlemana",
+      "name_placeholder": "Vaše meno",
+      "phone_label": "Telefónne číslo",
+      "phone_placeholder": "Telefónne číslo",
+      "service_label": "Vyberte si svoj zážitok",
+      "service_placeholder": "Vyberte si službu",
+      "date_label": "Preferovaný dátum",
+      "time_label": "Preferovaný čas",
+      "requests_label": "Špeciálne požiadavky",
+      "requests_placeholder": "Akékoľvek špecifické požiadavky alebo preferencie...",
+      "submit_button": "Potvrdiť rezerváciu"
+    },
+    "ticket_footer1": "Ďakujeme, že ste si vybrali Iron & Ink",
+    "ticket_footer2": "Vaša cesta k excelentnosti začína tu"
+  },
+  "Contact": {
+    "title": "Nájdite svoju svätyňu",
+    "subtitle": "Nachádza sa v srdci Bratislavy, kde sa tradícia stretáva s luxusom",
+    "location_title": "Navštívte našu svätyňu",
+    "location_address": "Námestie SNP 12, Bratislava, Slovensko",
+    "phone_title": "Zavolajte pre rezerváciu",
+    "email_title": "Napíšte nám",
+    "email_address": "info@ironinkbarber.sk",
+    "hours_title": "Otváracie hodiny",
+    "hours_weekdays": "Pondelok - Piatok",
+    "hours_saturday": "Sobota",
+    "hours_sunday": "Nedeľa",
+    "hours_closed": "Zatvorené",
+    "map_title": "Iron & Ink Barbershop",
+    "map_subtitle": "Prémiová starostlivosť v srdci Bratislavy"
+  },
+  "Footer": {
+    "brandName": "Iron & Ink Barbershop",
+    "subtitle": "Tvoríme excelentnosť od roku 2015",
+    "copyright": "© 2024 Iron & Ink Barbershop. Všetky práva vyhradené. | Vytvorené spoločnosťou Futurio"
+  }
+}

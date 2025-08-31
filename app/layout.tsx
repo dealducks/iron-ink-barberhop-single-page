@@ -17,7 +17,8 @@ export const metadata: Metadata = {
     description: "Experience the art of grooming at Bratislava's most prestigious barbershop",
     type: "website",
   },
-    generator: 'v0'
+  authors: [{ name: "PawLynx", url: "https://pawlynx.com" }],
+  creator: "PawLynx",
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
